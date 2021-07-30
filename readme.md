@@ -12,7 +12,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp> Motivated Software Engineer with experience in designing, developing, implementing, and testing software solutions and applications. Proficient in diverse programming languages such as C++, C#, and Python background. Expertise in all facets of the software development life cycle. Proven leadership with achievements in designing key software optimizations. Proven track record in generating ideas to improve system design and streamline product delivery to enhance customer satisfaction driving sales and profits. Consistently achieve timely product launches and development phases.
+  <samp> Software Engineer with experience in designing, developing, implementing, and testing software solutions and applications. Proficient in diverse programming languages such as C++, C#, and Python background. Expertise in all facets of the software development life cycle. Proven leadership with achievements in designing key software optimizations. Proven track record in generating ideas to improve system design and streamline product delivery to enhance customer satisfaction driving sales and profits. Consistently achieve timely product launches and development phases.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
@@ -170,15 +170,12 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 </div></td><td valign="top" width="33%">
 
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  

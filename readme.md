@@ -70,6 +70,7 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
   <img style="margin: 10px" src="https://github.com/detain/svg-logos/blob/master/svg/mysql-5.svg" alt="MySQL" height="50" />  
+  <img style="margin: 10px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/postgresql.svg" alt="PostGRESQL" height="50" />  
  
 </div></td><td valign="top" width="33%">
 

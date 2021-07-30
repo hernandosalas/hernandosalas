@@ -23,20 +23,19 @@
 
 <table><tr><td valign="top" width="33%">
 
-  ### Frontend  
+### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />   
   <img style="margin: 10px" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/dotnetcore.svg" alt="DotNet" height="50" />  
   <img style="margin: 10px" src="https://github.com/gilbarbara/logos/blob/master/logos/django-icon.svg" alt="Django" height="50" />  
   <img style="margin: 10px" src="https://github.com/detain/svg-logos/blob/master/svg/flask.svg" alt="Flask" height="50" />  
-</div></td><td valign="top" width="33%">
+</div></td><td valign="top" width="25%">
 
 ### Backend  
 <div align="center">  
@@ -46,14 +45,15 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-</div></td><td valign="top" width="33%">
+</div></td><td valign="top" width="25%">
   
-  ### DBs
+### DBs
 <div align="center">  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
   <img style="margin: 10px" src="https://github.com/detain/svg-logos/blob/master/svg/mysql-5.svg" alt="MySQL" height="50" />  
   <img style="margin: 10px" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/postgresql.svg" alt="PostGRESQL" height="50" />  
-</div></td></tr></table>  
+</div></td><td valign="top" width="25%">
+ 
 
 ### DevOps  
 <div align="center">  
@@ -65,8 +65,7 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
   <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="50" /> 
-  
-</div></td></tr></table>  
+</div></td></tr></table> 
 
 <br/>  
 

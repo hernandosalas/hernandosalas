@@ -65,7 +65,8 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
   <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="50" /> 
-</div></td></tr></table> 
+</div></td><td valign="top" width="25%">
+</table> 
 
 <br/>  
 

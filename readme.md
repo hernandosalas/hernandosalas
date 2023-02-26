@@ -9,7 +9,7 @@
 <br/>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
-<p align="left">
+<p align="justify">
   <samp> Software Engineer with experience in designing, developing, implementing, and testing software solutions and applications. Proficient in diverse programming languages such as C++, C#, and Python background. Expertise in all facets of the software development life cycle. Proven leadership with achievements in designing key software optimizations. Proven track record in generating ideas to improve system design and streamline product delivery to enhance customer satisfaction driving sales and profits. Consistently achieve timely product launches and development phases.
   </samp>
 </p>
